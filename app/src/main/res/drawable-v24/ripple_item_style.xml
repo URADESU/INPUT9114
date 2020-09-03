@@ -1,0 +1,3 @@
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="#ffffff" ><!-- 波紋の色 -->
+    <item android:drawable="@drawable/flame_style_item" /><!-- ボタンの背景-->
+</ripple>
